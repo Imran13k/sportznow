@@ -1,12 +1,12 @@
 {
   "name": "sportznow",
-  "private": true,
+  "private": true
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "echo "'skipping lint'"
+    "lint": "echo "lint": "echo \"skipping lint\""
   },
   "dependencies": {
     "next": "14.2.5",
